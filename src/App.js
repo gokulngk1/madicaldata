@@ -47,7 +47,7 @@ const App = () => {
 
   return (
     <div>
-      <h1>Rationale List Manager</h1>
+      <h1>Madical Data</h1>
       <RationaleForm onSave={saveRationale} />
       <RationaleList rationales={rationales} onEdit={editRationale} onDelete={deleteRationale} />
     </div>
