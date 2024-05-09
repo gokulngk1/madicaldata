@@ -1,5 +1,4 @@
-{
-"Rationale":[
+["Rationale":[
  {
   "Module": "Medical Review",
   "RationaleSummary": "10160, 20500-20501, 20526-20553, 20600-20611",
@@ -43731,5 +43730,7 @@
   "RationaleID": "1038",
   "RationaleModifierID": "49"
  }
-]
-}
+]];
+let initialData;
+
+export default initialData;
